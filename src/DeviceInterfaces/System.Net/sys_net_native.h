@@ -169,7 +169,6 @@ struct Library_sys_net_native_System_Net_IPAddress
     static const int FIELD___numbers = 3;
     static const int FIELD___scopeid = 4;
 
-
     NANOCLR_NATIVE_DECLARE(IPv4ToString___STATIC__STRING__U4);
     NANOCLR_NATIVE_DECLARE(IPv6ToString___STATIC__STRING__SZARRAY_U2);
 
